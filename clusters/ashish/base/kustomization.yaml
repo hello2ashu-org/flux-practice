@@ -14,4 +14,5 @@ wait: true
 sourceRef:
   kind: GitRepository
   name: flux-system  	
-path: ../../tenant/base
+resources:
+  - ns.yaml
