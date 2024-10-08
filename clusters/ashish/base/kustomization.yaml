@@ -14,4 +14,4 @@ wait: true
 sourceRef:
   kind: GitRepository
   name: flux-system  	
-path: ./tenant/base
+path: ../../tenant/base
