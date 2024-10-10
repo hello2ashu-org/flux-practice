@@ -6,4 +6,3 @@ resources:
   - hpa.yaml
   - my-pod.yaml
   - service.yaml
-namespace: kust-base
