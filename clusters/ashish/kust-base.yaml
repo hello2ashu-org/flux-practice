@@ -7,4 +7,4 @@ spec:
   interval: 30s
   ref:
     branch: main
-  url: https://github.com/hello2ashu-org/tenant/base
+  url: https://github.com/hello2ashu-org/flux-practice/tenant/base
