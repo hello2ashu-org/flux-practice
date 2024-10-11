@@ -3,9 +3,5 @@ kind: HorizontalPodAutoscaler
 metadata:
   name: podinfo
 spec:
-  scaleTargetRef:
-    apiVersion: apps/v1
-    kind: Deployment
-    name: podinfo
   minReplicas: 1	
   maxReplicas: 1
